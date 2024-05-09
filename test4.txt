@@ -1,0 +1,1 @@
+This text4.txt file for branching half from terminal and other half from GitHub UI
